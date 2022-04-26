@@ -12,4 +12,4 @@ def pode_dirigir():
 
 pode_dirigir()
 
-print(idades[-1])
+print(permissoes)
